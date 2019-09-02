@@ -1,0 +1,2 @@
+ros_basic_tutorials:ros_essentials_cpp
+-DCATKIN_DEVEL_PREFIX=/home/subhash/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/subhash/catkin_ws/install -G Unix Makefiles
